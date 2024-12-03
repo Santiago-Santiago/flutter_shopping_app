@@ -9,13 +9,13 @@ Esta aplicación simula una experiencia básica de una app de compras. Aunque es
 - **Carrusel de imágenes** implementado con el paquete [carousel_slider](https://pub.dev/packages/carousel_slider).
 - Interfaz de usuario minimalista y responsiva.
 
-## Capturas de Pantalla
+<!-- ## Capturas de Pantalla
 
-*(Incluye aquí algunas capturas de pantalla de tu aplicación si lo deseas)*
+*(Incluye aquí algunas capturas de pantalla de tu aplicación si lo deseas)* -->
 
 ## Instalación
 1. Clona este repositorio:
-    - git clone https://github.com/tu-usuario/flutter_shopping_app.git
+    - git clone https://github.com/Santiago-Santiago/flutter_shopping_app.git
     - cd flutter_shopping_app
    
 2. Instala las dependencias:
@@ -33,3 +33,6 @@ Esta aplicación es un punto de partida simple. Algunas funcionalidades que podr
 - Listado de productos.
 - Integración con una API para mostrar productos dinámicos.
 - Funcionalidad de carrito de compras.
+
+## Licencia
+Este proyecto es solo para fines de portafolio y aprendizaje. ✨
