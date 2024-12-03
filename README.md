@@ -1,16 +1,35 @@
-# flutter_shopping_app
+# Flutter Shopping App
 
-A new Flutter project.
+Una aplicación simple de compras desarrollada en Flutter, diseñada como parte de mi portafolio.
 
-## Getting Started
+## Descripción
 
-This project is a starting point for a Flutter application.
+Esta aplicación simula una experiencia básica de una app de compras. Aunque es simple, muestra algunas funcionalidades clave:
 
-A few resources to get you started if this is your first Flutter project:
+- **Carrusel de imágenes** implementado con el paquete [carousel_slider](https://pub.dev/packages/carousel_slider).
+- Interfaz de usuario minimalista y responsiva.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Capturas de Pantalla
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+*(Incluye aquí algunas capturas de pantalla de tu aplicación si lo deseas)*
+
+## Instalación
+1. Clona este repositorio:
+    - git clone https://github.com/tu-usuario/flutter_shopping_app.git
+    - cd flutter_shopping_app
+   
+2. Instala las dependencias:
+    - flutter pub get
+
+3. Ejecuta la aplicación:
+    - flutter run
+
+## Tecnologías Utilizadas
+- Flutter: Framework de desarrollo multiplataforma.
+- carousel_slider: Paquete utilizado para mostrar el carrusel de imágenes.
+
+## Próximas Mejoras
+Esta aplicación es un punto de partida simple. Algunas funcionalidades que podrían implementarse en el futuro incluyen:
+- Listado de productos.
+- Integración con una API para mostrar productos dinámicos.
+- Funcionalidad de carrito de compras.
